@@ -9,7 +9,7 @@ address {font-family: helvetica; font-style: normal}
 table {font-family: helvetica;}
 a:visited{font-size: 100%; color: DarkOrchid;}
 a:link{font-size: 100%; color: PaleTurquoise;}
-img {object-fit:cover;}
+img {object-fit:cover; border: 0; padding: 0; margin: 1%;}
 div{overflow: auto}
 div.researchbox{background-color: gainsboro; padding: 1%;}
 p.researchpar{color:black; height:80%;}
