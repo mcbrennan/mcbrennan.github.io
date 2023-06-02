@@ -9,6 +9,8 @@ address {font-family: helvetica; font-style: normal}
 table {font-family: helvetica;}
 a:visited{font-size: 100%; color: DarkOrchid;}
 a:link{font-size: 100%; color: PaleTurquoise;}
+a.researchlink{color: DarkTurquoise}
+a.researchlink:visited{color: DarkOrchid}
 img {object-fit:cover; border: 0; padding: 0; margin: 1%;}
 div{overflow: auto}
 div.researchbox{background-color: gainsboro; padding: 1%;}
